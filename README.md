@@ -1,4 +1,4 @@
-# AllgoTV
+# MyView
 #Created on April 11 2022
 #Links used:
 #https://cutt.ly/CAN_EPG1 
